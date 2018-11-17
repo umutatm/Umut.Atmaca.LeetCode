@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Umut.Atmaca.Tester.LeetCode {
+namespace Umut.Atmaca.Tester.LeetCode.Problems {
 
     /// <summary>
     /// Given an array of integers, return indices of the two numbers such that they add up to a specific target.

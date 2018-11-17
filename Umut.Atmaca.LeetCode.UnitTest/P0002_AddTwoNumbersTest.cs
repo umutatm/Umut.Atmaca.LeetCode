@@ -1,5 +1,5 @@
 ﻿using Umut.Atmaca.LeetCode.UnitTest;
-using Umut.Atmaca.Tester.LeetCode;
+using Umut.Atmaca.Tester.LeetCode.Problems;
 using Xunit;
 
 namespace Umut.Atmaca.Tester.UnitTest {

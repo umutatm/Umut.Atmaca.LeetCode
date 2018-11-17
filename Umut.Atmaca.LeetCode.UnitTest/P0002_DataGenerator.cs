@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using Umut.Atmaca.Tester.LeetCode;
+using Umut.Atmaca.Tester.LeetCode.Problems;
 
 namespace Umut.Atmaca.LeetCode.UnitTest {
     class P0002_DataGenerator : DataGenerator {
