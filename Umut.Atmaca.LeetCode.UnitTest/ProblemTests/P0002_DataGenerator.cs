@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Umut.Atmaca.Tester.LeetCode.Problems;
 
-namespace Umut.Atmaca.LeetCode.UnitTest {
+namespace Umut.Atmaca.LeetCode.UnitTest.ProblemTests {
     class P0002_DataGenerator : DataGenerator {
 
         protected override List<object[]> GetData() {

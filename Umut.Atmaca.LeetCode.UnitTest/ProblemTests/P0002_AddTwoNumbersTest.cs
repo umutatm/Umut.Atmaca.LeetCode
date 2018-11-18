@@ -1,8 +1,9 @@
 ﻿using Umut.Atmaca.LeetCode.UnitTest;
+using Umut.Atmaca.LeetCode.UnitTest.ProblemTests;
 using Umut.Atmaca.Tester.LeetCode.Problems;
 using Xunit;
 
-namespace Umut.Atmaca.Tester.UnitTest {
+namespace Umut.Atmaca.Tester.UnitTest.ProblemTests {
     public class P0002_AddTwoNumbersTest {
 
         [Theory]

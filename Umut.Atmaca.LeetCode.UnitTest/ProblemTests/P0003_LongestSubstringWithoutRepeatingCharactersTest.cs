@@ -1,7 +1,7 @@
 ﻿using Umut.Atmaca.LeetCode.Problems;
 using Xunit;
 
-namespace Umut.Atmaca.Tester.UnitTest {
+namespace Umut.Atmaca.Tester.UnitTest.ProblemTests {
     public class P0003_LongestSubstringWithoutRepeatingCharactersTest {
 
         [Theory]
